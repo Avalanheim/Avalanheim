@@ -1,0 +1,14 @@
+
+p{
+    color: red;
+}
+h1{
+    color : #313aff;
+}
+.main{text-decoration: underline}
+#first{
+    text-transform: capitalize;
+}
+li li {
+    color: yellow;
+}
